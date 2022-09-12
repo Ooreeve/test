@@ -78,7 +78,7 @@ export default function Quiz() {
                     <div className="circle-1"></div>
                     <div className="circle-2"></div>
                     <h1 className="title">Quizzical</h1>
-                    <p className="description">Some description if needed!!</p>
+                    <p className="description">Some description if needed!!!</p>
                     <button className="startBtn" onClick={start}>
                         Start quiz
                     </button>
